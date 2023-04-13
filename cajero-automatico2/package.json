@@ -1,0 +1,18 @@
+{
+  "name": "cajero-automatico2",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "amqplib": "^0.10.3",
+    "aws-sdk": "^2.1356.0",
+    "express": "^4.18.2",
+    "mongoose": "^7.0.3"
+  }
+}
